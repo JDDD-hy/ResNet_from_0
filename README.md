@@ -1,7 +1,7 @@
 # README
 
 ### 依赖库列表（Kaggle 环境）：
-
+主打的就是没有神经网络库/函数
 ```python
 import numpy as np
 import cupy as cp
